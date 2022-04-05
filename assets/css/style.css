@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Cabin', sans-serif;
+}
+
+nav {
+    background-color: #373A3C;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.titulo-nav {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: 37px;
+
+}
+
+.titulo-header {
+    font-weight: 700;
+    font-size: 30px;
+    color: #373A3C;
+}
+
+.subtitulo-header {
+    font-weight: 700;
+    font-size: 16px;
+    color: #373A3C;
+}
+
+.boton-header {
+    font-weight: 13px;
+    color: #373A3C;
+    background-color: #FFFFFF;
+    border-bottom: #DDDDDD;
+}
+
+.divisores-hr {
+    border-color: black;
+    border-width: 1px;
+}
+
+.parrafo-ingredientes {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 15px;
+    color: #373A3C;
+}
+
+.parrafo-preparacion {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #373A3C;
+}
+
+.div-preparacion {
+    max-width: 500px;
+}
+
+.titulo-recetas-rel {
+    font-size: 29px;
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.tarjeta {
+    max-width: 350px;
+}
+
+.titulo-tarjeta {
+    font-size: 17px;
+    font-weight: 700;
+    color: #373A3C;
+    padding-bottom: 10x;
+}
+
+.texto-tarjeta {
+    font-size: 16px;
+    font-weight: 400;
+    color: #373A3C;
+}
+
+
+.seccion-suscripcion {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #DC3545;
+}
+
+.fuente-titulo-suscribete {
+    font-size: 30px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.fuente-subtitulo-suscribete {
+    font-size: 17px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.fuente-lobster {
+    font-family: 'Lobster', cursive;
+}
+
+.footer {
+    background-color: #373A3C;
+    color: #FFFFFF;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    font-weight: 700;
+}
